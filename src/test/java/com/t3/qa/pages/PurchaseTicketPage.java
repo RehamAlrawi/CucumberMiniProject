@@ -7,9 +7,11 @@ import org.openqa.selenium.support.ui.Select;
 
 import com.t3.qa.utils.Constants;
 
-
+//reham
 
 public class PurchaseTicketPage {
+	
+	//String = "Reham";
 	@FindBy(id = "inputName")
 	WebElement fullNameField;
 	
