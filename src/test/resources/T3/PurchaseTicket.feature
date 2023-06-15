@@ -23,3 +23,4 @@ Feature: Purchase Ticket Functionality
       | mohammad A | 876 xyz dr    | San Ramon | CA    |   94582 | Visa             |  222222 |    10 | 2024 | mohammad a |
       | Jude B     | 980 hello dr  | reston    | NY    |   22034 | American Express |  999999 |    01 | 2024 | jude b     |
       | Tala J     | 678 google dr | sterling  | AZ    |   95632 | Visa             |  777777 |    11 | 2023 | tala j     |
+#Alrawi
